@@ -1,6 +1,6 @@
 .container {
     position: relative;
-    text-align: center;
+    text-align: left;
     color: white;
   }
   
@@ -8,16 +8,16 @@
   .centered {
     position: absolute;
     top: 50%;
-    left: 50%;
+    left: 20%;
     transform: translate(-50%, -50%);
     font-size: 100px;
-    float:center;
+    float:left;
   }
 
 #Footer{
     border: solid 8px white;
     border-style: dotted;
-    border-color: rgb(235, 223, 94);
+    border-color: rgb(235, 223, 94)
     text-align: left;
     background-color: rgb(236, 200, 236); 
     color: white;
